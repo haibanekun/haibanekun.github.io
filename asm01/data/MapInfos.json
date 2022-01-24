@@ -1,0 +1,16 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Локации","order":1,"parentId":0,"scrollX":728,"scrollY":410.22222222222223},
+{"id":2,"expanded":false,"name":"Академия","order":2,"parentId":1,"scrollX":1081.3333333333333,"scrollY":615.6666666666666},
+{"id":3,"expanded":false,"name":"Аудитория","order":3,"parentId":1,"scrollX":728,"scrollY":410.22222222222223},
+{"id":4,"expanded":false,"name":"Титры","order":6,"parentId":1,"scrollX":1092,"scrollY":615.3333333333334},
+{"id":5,"expanded":false,"name":"MAP005","order":5,"parentId":1,"scrollX":982.8,"scrollY":553.8},
+{"id":6,"expanded":false,"name":"Офис","order":4,"parentId":1,"scrollX":1092,"scrollY":615.3333333333334},
+{"id":7,"expanded":true,"name":"Жилище Хикари","order":7,"parentId":1,"scrollX":728,"scrollY":410.22222222222223},
+{"id":8,"expanded":false,"name":"Фон для презентаций","order":8,"parentId":1,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":9,"expanded":false,"name":"Жилище Хикари Ночью","order":9,"parentId":1,"scrollX":1092,"scrollY":615.3333333333334},
+{"id":10,"expanded":false,"name":"Офис Ночью","order":10,"parentId":1,"scrollX":982.8,"scrollY":553.8},
+{"id":11,"expanded":false,"name":"Офис2","order":11,"parentId":1,"scrollX":1091.3333333333333,"scrollY":615.6666666666666},
+{"id":12,"expanded":false,"name":"Выбор главы","order":12,"parentId":1,"scrollX":982.8,"scrollY":553.8},
+{"id":13,"expanded":false,"name":"Зал переноса","order":13,"parentId":1,"scrollX":982.8,"scrollY":553.8}
+]
